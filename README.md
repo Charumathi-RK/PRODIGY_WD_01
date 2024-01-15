@@ -20,3 +20,5 @@ Task Completion:
 
 This task was a fantastic opportunity to deepen my understanding of front-end development. ✨ 
 I learned more about creating navigation menus, applying scroll effects, and using JavaScript to add that extra layer of interactivity. 
+
+CHARUMATHI R
